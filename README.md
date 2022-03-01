@@ -1,0 +1,2 @@
+# G1F021050_FadhlurRohmanA_SLL.cpp
+G1F021050_Fadhlur Rohman A_SLL_Sistem Informasi 2021_Universitas Bengkulu
